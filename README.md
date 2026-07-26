@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @BAbdullaev
-- 👀 I’m interested in Front-End Web Development and Graphic Design
-- 🌱 I’m currently learning Front-End Web Development and Graphic Design
-- 📫 You can reach me through Discord at Bilaliddin#3686
+- Whatever this is supposed to be lol
